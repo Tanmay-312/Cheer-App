@@ -9,7 +9,6 @@ const { app, server } = require('./socket/index.js')
 // middleware
 app.use(express.json())
 app.use(cors({
-    origin: 'https://cheer-app.vercel.app',
     credentials: true
 }));
 app.use(cookiesParser())
