@@ -13,7 +13,7 @@ A real-time messaging Chat App using React, Socket.io, Node.js, Express.js, Redu
 
 ## Deployment
 
-URL = [Cheer App](https://tomato-food-delivery-tanmay-312s-projects.vercel.app/)
+URL = [Cheer App](https://cheer-app.vercel.app/)
 
 ## Getting Started
 
