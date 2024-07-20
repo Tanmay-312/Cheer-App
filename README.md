@@ -1,8 +1,8 @@
 ﻿# Cheer App
 
-## Chat App with React.js, Socket.io, Node.js, Express.js, Redux-Toolkit, MongoDB, Cloudinary
+## Chat App with React.js, Socket.io, Node.js, Express.js, Redux-Toolkit, MongoDB, Cloudinary and TailwindCSS
 
-A real-time messaging Chat App using React, Socket.io, Node.js, Express.js, Redux-Toolkit, MongoDB, Cloudinary.
+A real-time messaging Chat App to chat with friends.
 
 ## Feature
 
@@ -10,10 +10,6 @@ A real-time messaging Chat App using React, Socket.io, Node.js, Express.js, Redu
 - Profile photo updating
 - Online image and video sharing
 - Multi conversation support
-
-## Deployment
-
-URL = [Cheer App](https://cheer-app.vercel.app/)
 
 ## Getting Started
 
