@@ -1,10 +1,10 @@
 const express = require('express')
 const cors = require('cors')
 require('dotenv').config()
-const connectDB = require('./config/connectDB')
-const router = require('./routes/index')
+const connectDB = require('./config/connectDB.js')
+const router = require('./routes/index.js')
 const cookiesParser = require('cookie-parser')
-const { app, server } = require('./socket/index')
+const { app, server } = require('./socket/index.js')
 
 // const app = express()
 app.use(cors({
