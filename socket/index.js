@@ -1,10 +1,10 @@
 const express = require('express')
 const { Server } = require('socket.io')
 const http  = require('http')
-const getUserDetailsFromToken = require('../helpers/getUserDetailsFromToken')
-const UserModel = require('../models/UserModel')
-const { ConversationModel,MessageModel } = require('../models/ConversationModel')
-const getConversation = require('../helpers/getConversation')
+const getUserDetailsFromToken = require('../helpers/getUserDetailsFromToken.js')
+const UserModel = require('../models/UserModel.js')
+const { ConversationModel,MessageModel } = require('../models/ConversationModel.js')
+const getConversation = require('../helpers/getConversation.js')
 
 const app = express()
 
